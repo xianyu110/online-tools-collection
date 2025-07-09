@@ -1,0 +1,17 @@
+{
+  "name": "online-tools-collection",
+  "version": "1.0.0",
+  "description": "这是一个模仿 `guozhivip.com/tool/` 创建的在线工具导航网站。项目使用了现代化的前端技术栈，界面美观，易于扩展。",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "cheerio": "^1.1.0"
+  }
+}

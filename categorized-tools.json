@@ -1,0 +1,44 @@
+[
+  {
+    "category": "站长工具",
+    "icon": "fas fa-server",
+    "tools": [
+      {
+        "name": "便民查询",
+        "url": "http://guozhivip.com/tool/#cx"
+      },
+      {
+        "name": "图片工具",
+        "url": "http://guozhivip.com/tool/#tp"
+      },
+      {
+        "name": "格式转换",
+        "url": "http://guozhivip.com/tool/#zh"
+      },
+      {
+        "name": "文字工具",
+        "url": "http://guozhivip.com/tool/#wz"
+      },
+      {
+        "name": "计算测试",
+        "url": "http://guozhivip.com/tool/#js"
+      },
+      {
+        "name": "在线生成",
+        "url": "http://guozhivip.com/tool/#zx"
+      },
+      {
+        "name": "设计工具",
+        "url": "http://guozhivip.com/tool/#sj"
+      },
+      {
+        "name": "开发工具",
+        "url": "http://guozhivip.com/tool/#kf"
+      },
+      {
+        "name": "站长工具",
+        "url": "http://guozhivip.com/tool/#zz"
+      }
+    ]
+  }
+]

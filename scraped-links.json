@@ -1,0 +1,518 @@
+[
+  {
+    "text": "果汁导航",
+    "url": "http://guozhivip.com/"
+  },
+  {
+    "text": "更多",
+    "url": "http://guozhivip.com/#"
+  },
+  {
+    "text": "果汁排行榜",
+    "url": "http://guozhivip.com/rank/"
+  },
+  {
+    "text": "果汁工具",
+    "url": "http://guozhivip.com/tool/"
+  },
+  {
+    "text": "果汁实验室",
+    "url": "http://guozhivip.com/lab/"
+  },
+  {
+    "text": "果汁搜索",
+    "url": "http://guozhivip.com/so/"
+  },
+  {
+    "text": "联系/吐槽/捐助",
+    "url": "http://guozhivip.com/tc/"
+  },
+  {
+    "text": "主页",
+    "url": "http://guozhivip.com/"
+  },
+  {
+    "text": "热播剧",
+    "url": "https://m.douban.com/tv/"
+  },
+  {
+    "text": "热门电影",
+    "url": "https://m.douban.com/movie/"
+  },
+  {
+    "text": "票房榜",
+    "url": "https://piaofang.maoyan.com/box-office?ver=normal"
+  },
+  {
+    "text": "B站热门",
+    "url": "https://m.bilibili.com/ranking"
+  },
+  {
+    "text": "短视频",
+    "url": "https://www.xinpianchang.com/discover/article"
+  },
+  {
+    "text": "腾讯影视排行榜",
+    "url": "https://v.qq.com/biu/ranks/?t=hotsearch"
+  },
+  {
+    "text": "爱奇艺风云榜",
+    "url": "https://www.iqiyi.com/ranks/hotplay"
+  },
+  {
+    "text": "哔哩哔哩热榜",
+    "url": "https://www.bilibili.com/v/popular/rank/all"
+  },
+  {
+    "text": "电影票房榜",
+    "url": "https://piaofang.maoyan.com/dashboard"
+  },
+  {
+    "text": "豆瓣电影榜",
+    "url": "https://movie.douban.com/"
+  },
+  {
+    "text": "热门电视剧",
+    "url": "https://movie.douban.com/tv/"
+  },
+  {
+    "text": "AI工具",
+    "url": "http://guozhivip.com/ai/"
+  },
+  {
+    "text": "抖音",
+    "url": "https://www.douyin.com/"
+  },
+  {
+    "text": "快手",
+    "url": "https://www.kuaishou.com/"
+  },
+  {
+    "text": "腾讯视频",
+    "url": "https://v.qq.com/"
+  },
+  {
+    "text": "爱奇艺",
+    "url": "https://www.iqiyi.com/"
+  },
+  {
+    "text": "优酷",
+    "url": "https://www.youku.com/"
+  },
+  {
+    "text": "芒果TV",
+    "url": "https://www.mgtv.com/"
+  },
+  {
+    "text": "哔哩哔哩",
+    "url": "https://www.bilibili.com/"
+  },
+  {
+    "text": "搜狐视频",
+    "url": "https://tv.sohu.com/"
+  },
+  {
+    "text": "麦田影院",
+    "url": "https://www.mtyy5.com/"
+  },
+  {
+    "text": "臭蛋蛋影视",
+    "url": "https://www.cddys.me/?utm_source=guozhi"
+  },
+  {
+    "text": "农民影视",
+    "url": "https://www.nmdvd.cc/"
+  },
+  {
+    "text": "5点电影",
+    "url": "https://www.5.movie/?utm_source=WZYY-guozhidh&utm_medium=WZYY-guozhidh-5dian&utm_id=WZYY-guozhidh"
+  },
+  {
+    "text": "可乐影视",
+    "url": "https://www.klyingshi2.com/?utm_source=guozhi&utm_medium=guozhi-dh&utm_campaign=guozhi-CPT"
+  },
+  {
+    "text": "Auete影视",
+    "url": "https://auete.cc/"
+  },
+  {
+    "text": "555电影",
+    "url": "https://www.55dy2.com/?utm_source=WZYY-guozhidh&utm_medium=WZYY-guozhidh-555&utm_id=WZYY-guozhidh"
+  },
+  {
+    "text": "金牌影院",
+    "url": "https://www.vv3nwjk.com/"
+  },
+  {
+    "text": "火车太顺",
+    "url": "https://hcts3.com/?utm_source=WZYY-guozhidh&utm_medium=WZYY-guozhidh+-huoche&utm_id=WZYY-guozhidh"
+  },
+  {
+    "text": "饺子影院",
+    "url": "https://www.jiaozi.me/"
+  },
+  {
+    "text": "在线之家",
+    "url": "https://www.zxzjhd.com/"
+  },
+  {
+    "text": "LIBVIO",
+    "url": "https://www.libvio.fun/"
+  },
+  {
+    "text": "耐看点播",
+    "url": "https://www.nkdvd.com/"
+  },
+  {
+    "text": "观影GYING",
+    "url": "https://www.gyg.si/"
+  },
+  {
+    "text": "4K影视",
+    "url": "https://www.4kvm.tv/"
+  },
+  {
+    "text": "TVB云播",
+    "url": "http://www.tvyun10.com/"
+  },
+  {
+    "text": "可可影视",
+    "url": "https://www.kkys03.com/"
+  },
+  {
+    "text": "筷子影视",
+    "url": "https://www.kzvod.cc/"
+  },
+  {
+    "text": "飘花播播",
+    "url": "https://www.7itv.com/"
+  },
+  {
+    "text": "飞飞影视",
+    "url": "https://www.ffys.fun/"
+  },
+  {
+    "text": "厂长资源",
+    "url": "https://www.czzy77.com/"
+  },
+  {
+    "text": "HDmoli",
+    "url": "https://www.hdmoli.pro/"
+  },
+  {
+    "text": "饭团影视",
+    "url": "https://www.fantuan.vip/"
+  },
+  {
+    "text": "在线解析",
+    "url": "https://www.gyg.si/vipplay"
+  },
+  {
+    "text": "华数TV",
+    "url": "https://www.wasu.cn/"
+  },
+  {
+    "text": "1905电影",
+    "url": "https://www.1905.com/vod/"
+  },
+  {
+    "text": "浙江卫视",
+    "url": "http://www.zjstv.com/"
+  },
+  {
+    "text": "腾讯免费热剧",
+    "url": "https://v.qq.com/channel/tv/list?filter_params=ipay%3D1&page_id=channel_list_second_page&channel_id=100113"
+  },
+  {
+    "text": "爱奇艺免费专区",
+    "url": "https://www.iqiyi.com/list/free.html"
+  },
+  {
+    "text": "优酷免费 电影",
+    "url": "https://www.youku.com/channel/webtv/list?filter=type_%E7%94%B5%E5%BD%B1_payType_0&spm=a2hja.14919748_WEBTV_JINGXUAN.drawer3.d_main_area_1"
+  },
+  {
+    "text": "优酷免费 热剧",
+    "url": "https://www.youku.com/channel/webtv/list?filter=type_%E7%94%B5%E8%A7%86%E5%89%A7_payType_0&spm=a2hja.14919748_WEBTV_JINGXUAN.drawer3.d_main_area_1"
+  },
+  {
+    "text": "芒果TV免费 电影",
+    "url": "https://www.mgtv.com/lib/3?lastp=list_index&lastp=ch_movie&kind=a1&sort=c2&year=all&edition=182&chargeInfo=b1&fpa=7692&fpos="
+  },
+  {
+    "text": "芒果TV免费 热剧",
+    "url": "https://www.mgtv.com/lib/2?lastp=list_index&kind=a1&area=a1&year=all&chargeInfo=b1&sort=c2&feature=all"
+  },
+  {
+    "text": "搜狐免费 电影",
+    "url": "https://so.tv.sohu.com/list_p1100_p2_p3_p4_p5_p6_p7_p8_p92_p10_p11_p125_p13.html"
+  },
+  {
+    "text": "搜狐免费 热剧",
+    "url": "https://so.tv.sohu.com/list_p1101_p2_p3_p4-1_p5_p6_p77_p80_p92_p10_p11_p125_p13_p14.html"
+  },
+  {
+    "text": "乐视免费 电影",
+    "url": "https://list.le.com/listn/c1_t-1_a-1_y-1_s1_lg-1_ph1_md_o4_d1_p"
+  },
+  {
+    "text": "乐视免费 热剧",
+    "url": "https://list.le.com/listn/c2_t-1_a-1_y-1_s1_md_o20_d1_p_ph1"
+  },
+  {
+    "text": "B站免费电影",
+    "url": "https://www.bilibili.com/movie/index/#st=2&season_status=1&area=-1&style_id=-1&release_date=-1&order=2&sort=0&page=1"
+  },
+  {
+    "text": "66影视",
+    "url": "https://www.5266ys.net/"
+  },
+  {
+    "text": "音范丝",
+    "url": "https://www.yinfans.me/"
+  },
+  {
+    "text": "MP4电影",
+    "url": "https://www.momp4.cc/"
+  },
+  {
+    "text": "电影天堂1",
+    "url": "https://www.dytt99.com/"
+  },
+  {
+    "text": "电影天堂2",
+    "url": "https://www.dygod.net/"
+  },
+  {
+    "text": "美剧天堂",
+    "url": "https://www.meijutt.net/"
+  },
+  {
+    "text": "搜狐美剧",
+    "url": "http://tv.sohu.com/drama/us/"
+  },
+  {
+    "text": "搜狐美剧",
+    "url": "https://m.tv.sohu.com/drama_us"
+  },
+  {
+    "text": "优酷美剧",
+    "url": "https://www.youku.com/channel/webtv/list?filter=type_%E7%94%B5%E5%BD%B1_mainArea_%E7%BE%8E%E5%9B%BD_payType_0&spm=a2hja.14919748_WEBTV_JINGXUAN.drawer3.d_main_area_1"
+  },
+  {
+    "text": "爱奇艺美剧",
+    "url": "https://www.iqiyi.com/list/%E7%94%B5%E8%A7%86%E5%89%A7/%E7%BE%8E%E5%9B%BD"
+  },
+  {
+    "text": "B站欧美电影",
+    "url": "https://www.bilibili.com/v/movie/west/?spm_id_from=333.6.b_7375626e6176.3#/"
+  },
+  {
+    "text": "B站日本电影",
+    "url": "https://www.bilibili.com/v/movie/japan/#/"
+  },
+  {
+    "text": "bilibili番剧",
+    "url": "https://www.bilibili.com/anime/"
+  },
+  {
+    "text": "AcFun番剧",
+    "url": "https://www.acfun.cn/v/list155/index.htm"
+  },
+  {
+    "text": "AGE动漫",
+    "url": "https://www.agedm.org/"
+  },
+  {
+    "text": "猫耳FM",
+    "url": "https://www.missevan.com/"
+  },
+  {
+    "text": "樱花动漫",
+    "url": "http://www.yinghua8.cc/"
+  },
+  {
+    "text": "腾讯动漫",
+    "url": "https://v.qq.com/channel/cartoon"
+  },
+  {
+    "text": "爱奇艺动漫",
+    "url": "https://www.iqiyi.com/dongman/"
+  },
+  {
+    "text": "优酷动漫",
+    "url": "https://comic.youku.com/"
+  },
+  {
+    "text": "搜狐动漫",
+    "url": "http://tv.sohu.com/comic/"
+  },
+  {
+    "text": "PP视频动漫",
+    "url": "http://cartoon.pptv.com/"
+  },
+  {
+    "text": "CCTV13新闻直播",
+    "url": "https://tv.cctv.com/live/"
+  },
+  {
+    "text": "CCTV1综合直播",
+    "url": "https://tv.cctv.com/live/cctv1/"
+  },
+  {
+    "text": "浙江卫视直播",
+    "url": "https://www.cztv.com/liveTV"
+  },
+  {
+    "text": "江苏卫视直播",
+    "url": "https://live.jstv.com/"
+  },
+  {
+    "text": "东方卫视直播",
+    "url": "https://live.kankanews.com/huikan/"
+  },
+  {
+    "text": "北京卫视直播",
+    "url": "https://www.btime.com/btv/btvsy_index"
+  },
+  {
+    "text": "CCTV6电影直播",
+    "url": "https://www.1905.com/cctv6/live/"
+  },
+  {
+    "text": "CGTN News直播",
+    "url": "https://www.cgtn.com/tv"
+  },
+  {
+    "text": "电视直播网",
+    "url": "http://www.tvyan.com/"
+  },
+  {
+    "text": "斗鱼",
+    "url": "https://www.douyu.com/"
+  },
+  {
+    "text": "虎牙",
+    "url": "https://www.huya.com/"
+  },
+  {
+    "text": "央视体育直播",
+    "url": "https://tv.cctv.com/live/cctv5/"
+  },
+  {
+    "text": "企鹅体育直播",
+    "url": "https://live.qq.com/"
+  },
+  {
+    "text": "咪咕体育直播",
+    "url": "https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html?from=001"
+  },
+  {
+    "text": "网易CC直播",
+    "url": "https://cc.163.com/"
+  },
+  {
+    "text": "YY直播",
+    "url": "https://www.yy.com/"
+  },
+  {
+    "text": "BiliBili直播",
+    "url": "https://live.bilibili.com/"
+  },
+  {
+    "text": "快手直播",
+    "url": "https://live.kuaishou.com/"
+  },
+  {
+    "text": "抖音直播",
+    "url": "https://live.douyin.com/"
+  },
+  {
+    "text": "B站纪录片",
+    "url": "https://www.bilibili.com/documentary/"
+  },
+  {
+    "text": "央视纪录片",
+    "url": "http://jishi.cctv.com/"
+  },
+  {
+    "text": "腾讯纪录片",
+    "url": "https://v.qq.com/channel/doco"
+  },
+  {
+    "text": "优酷纪录片",
+    "url": "https://jilupian.youku.com/"
+  },
+  {
+    "text": "爱奇艺纪录片",
+    "url": "http://www.iqiyi.com/jilupian/"
+  },
+  {
+    "text": "搜狐纪录片",
+    "url": "http://tv.sohu.com/documentary/"
+  },
+  {
+    "text": "西瓜纪录片",
+    "url": "https://www.ixigua.com/channel/jilupian/"
+  },
+  {
+    "text": "芒果纪录片",
+    "url": "https://www.mgtv.com/doc/"
+  },
+  {
+    "text": "中国纪录片网",
+    "url": "http://www.docuchina.cn/"
+  },
+  {
+    "text": "知乎纪录片推荐",
+    "url": "https://www.zhihu.com/topic/19550706/index"
+  },
+  {
+    "text": "豆瓣纪录片推荐",
+    "url": "https://www.douban.com/doulist/41546224/"
+  },
+  {
+    "text": "新片场",
+    "url": "https://www.xinpianchang.com/discover/article"
+  },
+  {
+    "text": "抖音",
+    "url": "https://www.douyin.com/"
+  },
+  {
+    "text": "快手",
+    "url": "https://video.kuaishou.com/"
+  },
+  {
+    "text": "好看视频",
+    "url": "https://haokan.baidu.com/"
+  },
+  {
+    "text": "梨视频",
+    "url": "https://www.pearvideo.com/"
+  },
+  {
+    "text": "捐助",
+    "url": "http://guozhivip.com/tc/"
+  },
+  {
+    "text": "反馈建议",
+    "url": "https://support.qq.com/products/27320"
+  },
+  {
+    "text": "联系",
+    "url": "http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=0_Hg5Obq6uXg4uuToqL9sLy_"
+  },
+  {
+    "text": "合作",
+    "url": "https://wj.qq.com/s2/3881997/233a/"
+  },
+  {
+    "text": "果汁导航",
+    "url": "http://guozhivip.com/"
+  },
+  {
+    "text": "陕ICP备20012493号-2",
+    "url": "https://beian.miit.gov.cn/"
+  }
+]
