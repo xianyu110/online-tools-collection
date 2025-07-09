@@ -1,7 +1,7 @@
 /* 基本重置和全局样式 */
 body {
     margin: 0;
-    font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'Inter', 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
     background-color: #f0f2f5;
     color: #333;
     line-height: 1.6;
@@ -17,6 +17,7 @@ a {
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
+    padding-right: 60px; /* 为右侧导航留出空间 */
 }
 
 /* 顶部导航 */
@@ -124,7 +125,14 @@ a {
     padding: 25px;
     margin-bottom: 25px;
     box-shadow: 0 1px 3px rgba(0,0,0,0.04);
-    transition: box-shadow 0.3s ease;
+    transition: box-shadow 0.3s ease, transform 0.5s ease, opacity 0.5s ease;
+    opacity: 0;
+    transform: translateY(20px);
+}
+
+.category-container.visible {
+    opacity: 1;
+    transform: translateY(0);
 }
 
 .category-container:hover {
@@ -231,38 +239,61 @@ a {
     transform: translateY(0);
 }
 
-/* 右侧快捷导航 */
-.quick-nav {
+/* 右侧导航栏 */
+.side-nav {
     position: fixed;
-    top: 50%;
     right: 0;
+    top: 50%;
     transform: translateY(-50%);
-    background-color: #fff;
-    border-radius: 8px 0 0 8px;
-    box-shadow: -2px 0 8px rgba(0,0,0,0.08);
-    padding: 10px 5px;
+    background: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(10px);
+    padding: 15px 8px;
+    border-radius: 10px 0 0 10px;
+    box-shadow: -2px 0 10px rgba(0, 0, 0, 0.05);
+    z-index: 100;
+    transition: all 0.3s ease;
 }
 
-.quick-nav .nav-item {
+.side-nav:hover {
+    background: rgba(255, 255, 255, 0.95);
+    padding-right: 12px;
+}
+
+.side-nav a {
     display: flex;
-    flex-direction: column;
     align-items: center;
-    padding: 10px;
-    cursor: pointer;
-    transition: color 0.2s;
+    padding: 8px;
+    margin: 4px 0;
+    border-radius: 6px;
+    color: #666;
+    font-size: 14px;
+    transition: all 0.2s ease;
 }
 
-.quick-nav .nav-item:hover {
-    color: #1a73e8;
+.side-nav a:hover {
+    background: rgba(66, 133, 244, 0.1);
+    color: #4285f4;
+    transform: translateX(-2px);
 }
 
-.quick-nav .nav-item i {
+.side-nav i {
     font-size: 18px;
-    margin-bottom: 5px;
 }
 
-.quick-nav .nav-item span {
-    font-size: 12px;
-    writing-mode: vertical-rl;
-    text-orientation: mixed;
+/* 调整主内容区域，避免被导航栏遮挡 */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    padding-right: 60px; /* 为右侧导航留出空间 */
+}
+
+/* 在小屏幕上隐藏导航栏 */
+@media (max-width: 768px) {
+    .side-nav {
+        display: none;
+    }
+    .container {
+        padding-right: 20px;
+    }
 } 

@@ -65,4 +65,20 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
+    // 4. 滚动加载动画
+    const observer = new IntersectionObserver((entries, observer) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add('visible');
+                observer.unobserve(entry.target);
+            }
+        });
+    }, {
+        threshold: 0.1 // 元素进入视口10%时触发
+    });
+
+    categories.forEach(category => {
+        observer.observe(category);
+    });
+
 }); 
