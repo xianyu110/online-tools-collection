@@ -1,0 +1,696 @@
+[
+  {
+    "name": "便民查询",
+    "icon": "fas fa-search",
+    "tools": [
+      {
+        "name": "天气",
+        "url": "https://www.baidu.com/s?wd=%E5%A4%A9%E6%B0%94",
+        "icon": "fas fa-cloud"
+      },
+      {
+        "name": "放假安排",
+        "url": "https://www.wannianli123.com/",
+        "icon": "fas fa-calendar"
+      },
+      {
+        "name": "星座运势",
+        "url": "https://www.xzw.com/fortune/",
+        "icon": "fas fa-star"
+      },
+      {
+        "name": "在线地图",
+        "url": "https://map.baidu.com/",
+        "icon": "fas fa-map-marked-alt"
+      },
+      {
+        "name": "今日油价查询",
+        "url": "http://www.qiyoujiage.com/",
+        "icon": "fas fa-gas-pump"
+      },
+      {
+        "name": "职位薪酬查询",
+        "url": "https://www.zhipin.com/salaryxc/",
+        "icon": "fas fa-money-bill-wave"
+      },
+      {
+        "name": "今天吃啥呀",
+        "url": "http://guozhivip.com/eat/",
+        "icon": "fas fa-utensils"
+      },
+      {
+        "name": "大学查询",
+        "url": "https://www.shanghairanking.cn/",
+        "icon": "fas fa-university"
+      },
+      {
+        "name": "世界各国禁忌",
+        "url": "https://www.ip138.com/jinji/",
+        "icon": "fas fa-globe"
+      },
+      {
+        "name": "彩票开奖",
+        "url": "https://kaijiang.500.com/",
+        "icon": "fas fa-ticket-alt"
+      },
+      {
+        "name": "股市行情",
+        "url": "https://www.baidu.com/s?wd=%E8%82%A1%E7%A5%A8",
+        "icon": "fas fa-chart-line"
+      },
+      {
+        "name": "周公解梦",
+        "url": "https://www.zxgj.cn/g/zhougongjiemeng",
+        "icon": "fas fa-moon"
+      },
+      {
+        "name": "查公司查老板",
+        "url": "https://www.tianyancha.com/",
+        "icon": "fas fa-building"
+      },
+      {
+        "name": "历史朝代",
+        "url": "https://www.ip138.com/chaodai/",
+        "icon": "fas fa-history"
+      },
+      {
+        "name": "衣服尺码对照表",
+        "url": "https://www.ip138.com/chima/",
+        "icon": "fas fa-tshirt"
+      },
+      {
+        "name": "血型配对",
+        "url": "https://www.zxgj.cn/g/xxpd",
+        "icon": "fas fa-tint"
+      },
+      {
+        "name": "车标查询",
+        "url": "https://www.ip138.com/chebiao/",
+        "icon": "fas fa-car"
+      },
+      {
+        "name": "花语大全",
+        "url": "https://www.ip138.com/huayu/",
+        "icon": "fas fa-seedling"
+      },
+      {
+        "name": "百家姓查询",
+        "url": "https://xing.911cha.com/",
+        "icon": "fas fa-book"
+      },
+      {
+        "name": "古诗词起名",
+        "url": "https://tool.browser.qq.com/makename.html",
+        "icon": "fas fa-signature"
+      },
+      {
+        "name": "查快递",
+        "url": "https://www.baidu.com/s?wd=%E6%9F%A5%E5%BF%AB%E9%80%92",
+        "icon": "fas fa-truck"
+      },
+      {
+        "name": "垃圾分类查询",
+        "url": "https://www.sogou.com/web?query=%E5%9E%83%E5%9C%BE%E5%88%86%E7%B1%BB%E6%9F%A5%E8%AF%A2",
+        "icon": "fas fa-trash"
+      },
+      {
+        "name": "世界时间查询",
+        "url": "https://shicha.911cha.com/",
+        "icon": "fas fa-clock"
+      },
+      {
+        "name": "24节气查询",
+        "url": "https://jieqi.bmcx.com/",
+        "icon": "fas fa-sun"
+      },
+      {
+        "name": "血型遗传规律",
+        "url": "https://tool.browser.qq.com/bloodtype.html",
+        "icon": "fas fa-tint"
+      },
+      {
+        "name": "专利查询",
+        "url": "https://cprs.patentstar.com.cn/",
+        "icon": "fas fa-file-alt"
+      },
+      {
+        "name": "国情查询",
+        "url": "http://www.gov.cn/guoqing/index.htm",
+        "icon": "fas fa-flag"
+      },
+      {
+        "name": "国家标准查询",
+        "url": "https://openstd.samr.gov.cn/",
+        "icon": "fas fa-book"
+      },
+      {
+        "name": "今日金价",
+        "url": "http://www.huangjinjiage.cn/",
+        "icon": "fas fa-coins"
+      }
+    ]
+  },
+  {
+    "name": "图片工具",
+    "icon": "fas fa-image",
+    "tools": [
+      {
+        "name": "在线抠图",
+        "url": "https://www.remove.bg/",
+        "icon": "fas fa-cut"
+      },
+      {
+        "name": "图片压缩",
+        "url": "https://tinypng.com/",
+        "icon": "fas fa-compress"
+      },
+      {
+        "name": "GIF编辑",
+        "url": "https://ezgif.com/",
+        "icon": "fas fa-film"
+      },
+      {
+        "name": "图片编辑",
+        "url": "https://www.iloveimg.com/",
+        "icon": "fas fa-images"
+      },
+      {
+        "name": "在线PS",
+        "url": "https://www.photopea.com/",
+        "icon": "fas fa-paint-brush"
+      },
+      {
+        "name": "格式转换",
+        "url": "https://www.img2go.com/",
+        "icon": "fas fa-exchange-alt"
+      },
+      {
+        "name": "去水印",
+        "url": "https://www.watermarkremover.io/",
+        "icon": "fas fa-eraser"
+      },
+      {
+        "name": "图片放大",
+        "url": "https://bigjpg.com/",
+        "icon": "fas fa-expand"
+      },
+      {
+        "name": "抠图及美化",
+        "url": "https://picwish.cn/create",
+        "icon": "fas fa-magic"
+      },
+      {
+        "name": "证件照换底色",
+        "url": "https://id-photo.cn/color.html",
+        "icon": "fas fa-id-card"
+      },
+      {
+        "name": "证件照生成",
+        "url": "https://picwish.cn/remove-background-id-photo",
+        "icon": "fas fa-camera"
+      },
+      {
+        "name": "百度识图",
+        "url": "https://graph.baidu.com/pcpage/index?tpl_from=pc",
+        "icon": "fas fa-search"
+      },
+      {
+        "name": "必应识图",
+        "url": "https://cn.bing.com/visualsearch",
+        "icon": "fas fa-search"
+      },
+      {
+        "name": "360识图",
+        "url": "https://st.so.com/",
+        "icon": "fas fa-search"
+      },
+      {
+        "name": "图片EXIF查看器",
+        "url": "https://exif.tuchong.com/",
+        "icon": "fas fa-camera-retro"
+      }
+    ]
+  },
+  {
+    "name": "格式转换",
+    "icon": "fas fa-exchange-alt",
+    "tools": [
+      {
+        "name": "格式转换",
+        "url": "https://www.aconvert.com/cn/",
+        "icon": "fas fa-sync"
+      },
+      {
+        "name": "PDF转换",
+        "url": "https://smallpdf.com/cn/pdf-tools",
+        "icon": "fas fa-file-pdf"
+      },
+      {
+        "name": "视频转换",
+        "url": "https://convertio.co/zh/video-converter/",
+        "icon": "fas fa-video"
+      },
+      {
+        "name": "音频转换",
+        "url": "https://convertio.co/zh/audio-converter/",
+        "icon": "fas fa-music"
+      },
+      {
+        "name": "文档转换",
+        "url": "https://www.zamzar.com/",
+        "icon": "fas fa-file-alt"
+      },
+      {
+        "name": "云端转换",
+        "url": "https://cloudconvert.com/",
+        "icon": "fas fa-cloud"
+      },
+      {
+        "name": "在线转换",
+        "url": "https://www.online-convert.com/",
+        "icon": "fas fa-random"
+      },
+      {
+        "name": "媒体转换",
+        "url": "https://www.media.io/",
+        "icon": "fas fa-photo-video"
+      },
+      {
+        "name": "PDF工具",
+        "url": "https://www.ilovepdf.com/zh-cn",
+        "icon": "fas fa-file-pdf"
+      },
+      {
+        "name": "PDF压缩",
+        "url": "https://smallpdf.com/compress-pdf",
+        "icon": "fas fa-compress"
+      },
+      {
+        "name": "免费在线应用",
+        "url": "https://123apps.com/cn/",
+        "icon": "fas fa-tools"
+      },
+      {
+        "name": "在线PDF工具1",
+        "url": "https://www.cleverpdf.com/cn",
+        "icon": "fas fa-file-pdf"
+      },
+      {
+        "name": "在线PDF工具2",
+        "url": "https://tools.pdf24.org/zh/",
+        "icon": "fas fa-file-pdf"
+      }
+    ]
+  },
+  {
+    "name": "文字工具",
+    "icon": "fas fa-font",
+    "tools": [
+      {
+        "name": "在线翻译",
+        "url": "https://fanyi.baidu.com/",
+        "icon": "fas fa-language"
+      },
+      {
+        "name": "错别字检测",
+        "url": "https://www.ijiaodui.com/workbench",
+        "icon": "fas fa-spell-check"
+      },
+      {
+        "name": "文字去重",
+        "url": "https://www.qqxiuzi.cn/zh/quchong/",
+        "icon": "fas fa-broom"
+      },
+      {
+        "name": "图片文字提取",
+        "url": "https://web.baimiaoapp.com/",
+        "icon": "fas fa-file-alt"
+      },
+      {
+        "name": "文字转语音",
+        "url": "https://tool.browser.qq.com/tts.html",
+        "icon": "fas fa-volume-up"
+      },
+      {
+        "name": "中文转拼音",
+        "url": "https://zhongwenzhuanpinyin.bmcx.com/",
+        "icon": "fas fa-language"
+      },
+      {
+        "name": "汉字词典",
+        "url": "https://www.zdic.net/",
+        "icon": "fas fa-book"
+      },
+      {
+        "name": "在线文本排版",
+        "url": "http://www.txttool.com/t/?id=MzE1",
+        "icon": "fas fa-align-left"
+      },
+      {
+        "name": "网易见外工作台",
+        "url": "https://jianwai.youdao.com/",
+        "icon": "fas fa-language"
+      }
+    ]
+  },
+  {
+    "name": "计算测试",
+    "icon": "fas fa-calculator",
+    "tools": [
+      {
+        "name": "个税计算",
+        "url": "https://www.gerensuodeshui.cn/",
+        "icon": "fas fa-calculator"
+      },
+      {
+        "name": "房贷计算",
+        "url": "https://www.fangdaijisuanqi.com/",
+        "icon": "fas fa-home"
+      },
+      {
+        "name": "BMI计算",
+        "url": "https://cn.onlinebmicalculator.com/",
+        "icon": "fas fa-weight"
+      },
+      {
+        "name": "智商测试",
+        "url": "https://www.zxgj.cn/g/zhishang",
+        "icon": "fas fa-brain"
+      },
+      {
+        "name": "睡眠质量测试",
+        "url": "https://www.zxgj.cn/g/shuimianzhiliang",
+        "icon": "fas fa-bed"
+      },
+      {
+        "name": "记忆力测试",
+        "url": "https://www.zxgj.cn/g/jiyili",
+        "icon": "fas fa-memory"
+      },
+      {
+        "name": "年龄计算器",
+        "url": "https://www.zxgj.cn/g/nianling",
+        "icon": "fas fa-birthday-cake"
+      },
+      {
+        "name": "身价计算器",
+        "url": "https://www.zxgj.cn/g/sjjs",
+        "icon": "fas fa-coins"
+      }
+    ]
+  },
+  {
+    "name": "在线生成",
+    "icon": "fas fa-magic",
+    "tools": [
+      {
+        "name": "二维码生成",
+        "url": "https://www.qr-code-generator.com/",
+        "icon": "fas fa-qrcode"
+      },
+      {
+        "name": "思维导图",
+        "url": "https://www.mindmeister.com/",
+        "icon": "fas fa-sitemap"
+      },
+      {
+        "name": "表格生成",
+        "url": "https://www.tablesgenerator.com/",
+        "icon": "fas fa-table"
+      },
+      {
+        "name": "表单生成",
+        "url": "https://www.form-create.com/",
+        "icon": "fas fa-wpforms"
+      },
+      {
+        "name": "代码图片",
+        "url": "https://carbon.now.sh/",
+        "icon": "fas fa-code"
+      },
+      {
+        "name": "图表生成",
+        "url": "https://www.chartjs.org/",
+        "icon": "fas fa-chart-bar"
+      },
+      {
+        "name": "证件照生成",
+        "url": "https://www.remove.bg/",
+        "icon": "fas fa-portrait"
+      },
+      {
+        "name": "Logo生成",
+        "url": "https://www.logaster.com/",
+        "icon": "fas fa-trademark"
+      }
+    ]
+  },
+  {
+    "name": "设计工具",
+    "icon": "fas fa-palette",
+    "tools": [
+      {
+        "name": "配色方案",
+        "url": "https://color.adobe.com/",
+        "icon": "fas fa-fill-drip"
+      },
+      {
+        "name": "在线设计",
+        "url": "https://www.canva.com/",
+        "icon": "fas fa-pencil-ruler"
+      },
+      {
+        "name": "Figma",
+        "url": "https://www.figma.com/",
+        "icon": "fas fa-vector-square"
+      },
+      {
+        "name": "图标库",
+        "url": "https://icons8.com/",
+        "icon": "fas fa-icons"
+      },
+      {
+        "name": "免费图库",
+        "url": "https://unsplash.com/",
+        "icon": "fas fa-camera"
+      },
+      {
+        "name": "字体库",
+        "url": "https://www.fontspace.com/",
+        "icon": "fas fa-font"
+      },
+      {
+        "name": "形状生成",
+        "url": "https://www.shapedivider.app/",
+        "icon": "fas fa-wave-square"
+      },
+      {
+        "name": "背景移除",
+        "url": "https://www.remove.bg/",
+        "icon": "fas fa-object-ungroup"
+      },
+      {
+        "name": "屏幕尺寸大全",
+        "url": "https://uiiiuiii.com/screen/index.htm",
+        "icon": "fas fa-mobile-alt"
+      },
+      {
+        "name": "iOS设计尺寸规范",
+        "url": "https://uiiiuiii.com/screen/ios.htm",
+        "icon": "fab fa-apple"
+      },
+      {
+        "name": "Android设计尺寸规范",
+        "url": "https://www.ubuuk.com/android",
+        "icon": "fab fa-android"
+      },
+      {
+        "name": "Web设计尺寸规范",
+        "url": "https://www.ubuuk.com/web",
+        "icon": "fas fa-desktop"
+      },
+      {
+        "name": "切图命名规范",
+        "url": "https://www.ubuuk.com/cutname",
+        "icon": "fas fa-cut"
+      }
+    ]
+  },
+  {
+    "name": "开发工具",
+    "icon": "fas fa-code",
+    "tools": [
+      {
+        "name": "正则测试",
+        "url": "https://regex101.com/",
+        "icon": "fas fa-terminal"
+      },
+      {
+        "name": "JSON格式化",
+        "url": "https://www.json.cn/",
+        "icon": "fas fa-brackets-curly"
+      },
+      {
+        "name": "兼容性查询",
+        "url": "https://caniuse.com/",
+        "icon": "fas fa-browser"
+      },
+      {
+        "name": "代码对比",
+        "url": "https://www.diffchecker.com/",
+        "icon": "fas fa-code-branch"
+      },
+      {
+        "name": "Unicode转换",
+        "url": "https://tool.chinaz.com/tools/unicode.aspx",
+        "icon": "fas fa-font"
+      },
+      {
+        "name": "CDN服务",
+        "url": "https://www.bootcdn.cn/",
+        "icon": "fas fa-server"
+      },
+      {
+        "name": "流程图",
+        "url": "https://www.processon.com/",
+        "icon": "fas fa-project-diagram"
+      },
+      {
+        "name": "在线IDE",
+        "url": "https://github.dev/",
+        "icon": "fab fa-github"
+      },
+      {
+        "name": "代码工具",
+        "url": "http://tools.jb51.net/code",
+        "icon": "fas fa-code"
+      },
+      {
+        "name": "正则表达式工具",
+        "url": "http://tools.jb51.net/regex",
+        "icon": "fas fa-code"
+      },
+      {
+        "name": "颜色相关工具",
+        "url": "http://tools.jb51.net/color",
+        "icon": "fas fa-palette"
+      },
+      {
+        "name": "编码转换工具",
+        "url": "http://tools.jb51.net/transcoding",
+        "icon": "fas fa-exchange-alt"
+      },
+      {
+        "name": "密码工具",
+        "url": "http://tools.jb51.net/password",
+        "icon": "fas fa-key"
+      },
+      {
+        "name": "颜色转换",
+        "url": "https://www.sioe.cn/yingyong/yanse-rgb-16/",
+        "icon": "fas fa-fill-drip"
+      },
+      {
+        "name": "ico图标制作",
+        "url": "https://tool.lu/favicon/",
+        "icon": "fas fa-image"
+      },
+      {
+        "name": "菜鸟工具",
+        "url": "https://c.runoob.com/",
+        "icon": "fas fa-tools"
+      },
+      {
+        "name": "开发工具",
+        "url": "https://tool.lu/c/developer/",
+        "icon": "fas fa-laptop-code"
+      }
+    ]
+  },
+  {
+    "name": "站长工具",
+    "icon": "fas fa-globe",
+    "tools": [
+      {
+        "name": "爱站网",
+        "url": "https://www.aizhan.com/",
+        "icon": "fas fa-search"
+      },
+      {
+        "name": "站长之家",
+        "url": "https://www.chinaz.com/",
+        "icon": "fas fa-globe"
+      },
+      {
+        "name": "网站测速",
+        "url": "https://www.ping.cn/",
+        "icon": "fas fa-network-wired"
+      },
+      {
+        "name": "网站监控",
+        "url": "https://www.17ce.com/",
+        "icon": "fas fa-tachometer-alt"
+      },
+      {
+        "name": "SSL检测",
+        "url": "https://www.ssllabs.com/",
+        "icon": "fas fa-shield-alt"
+      },
+      {
+        "name": "性能测试",
+        "url": "https://www.webpagetest.org/",
+        "icon": "fas fa-chart-line"
+      },
+      {
+        "name": "网站排名",
+        "url": "https://www.alexa.com/",
+        "icon": "fas fa-chart-bar"
+      },
+      {
+        "name": "Whois查询",
+        "url": "https://www.whois.com/",
+        "icon": "fas fa-info-circle"
+      },
+      {
+        "name": "网站备案查询",
+        "url": "http://icp.chinaz.com/",
+        "icon": "fas fa-file-alt"
+      },
+      {
+        "name": "SEO综合查询",
+        "url": "http://seo.chinaz.com/",
+        "icon": "fas fa-search"
+      },
+      {
+        "name": "网站数据统计",
+        "url": "https://tongji.baidu.com/",
+        "icon": "fas fa-chart-line"
+      },
+      {
+        "name": "死链接检测1",
+        "url": "https://ntool.chinaz.com/tools/links",
+        "icon": "fas fa-unlink"
+      },
+      {
+        "name": "百度站长平台",
+        "url": "https://ziyuan.baidu.com/",
+        "icon": "fas fa-sitemap"
+      },
+      {
+        "name": "搜狗站长平台",
+        "url": "http://zhanzhang.sogou.com/",
+        "icon": "fas fa-sitemap"
+      },
+      {
+        "name": "360站长平台",
+        "url": "http://zhanzhang.so.com/",
+        "icon": "fas fa-sitemap"
+      },
+      {
+        "name": "神马站长平台",
+        "url": "https://zhanzhang.sm.cn/",
+        "icon": "fas fa-sitemap"
+      }
+    ]
+  }
+]
